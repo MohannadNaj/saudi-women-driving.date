@@ -192,6 +192,7 @@
 }
 .main .footer p.credit {
   text-align: right;
+  font-size: 10px;
 }
 @media (max-width: 991px) {
   .main .footer {
